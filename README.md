@@ -67,4 +67,4 @@ Users should be able to:
 
 ## Acknowledgments
 
-- [Blog](https://blog.prototypr.io/align-svg-icons-to-text-and-say-goodbye-to-font-icons-d44b3d7b26b4) - This Blog help me to understand the alignment of svg and text
+- [Blog](https://blog.prototypr.io/align-svg-icons-to-text-and-say-goodbye-to-font-icons-d44b3d7b26b4) - This Blog help me to understand the alignment of svg and text thank you Elliot Dahl for writing such good artcile 
