@@ -11,7 +11,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
@@ -33,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/nft-preview-card-component-XpK4mmXj7k](https://www.frontendmentor.io/solutions/nft-preview-card-component-XpK4mmXj7k)
+- Live Site URL: [https://bhateshkhairnar.github.io/NFT-Preview-Card-Component/03-NFT.html](https://bhateshkhairnar.github.io/NFT-Preview-Card-Component/03-NFT.html)
 
 ## My process
 
@@ -56,12 +55,12 @@ Users should be able to:
 
 ### Useful resources
 
-- [Resource 1](https://www.w3schools.com/howto/howto_css_image_overlay.asp) - This website helped me for understanding of image overlay. I really liked this pattern and will use it going forward.
+- [Resource 1](https://www.w3schools.com/howto/howto_css_image_overlay.asp) - This website helped me for the understanding of image overlay. I really liked this pattern and will use it going forward.
 - [Resource 2](https://blog.prototypr.io/align-svg-icons-to-text-and-say-goodbye-to-font-icons-d44b3d7b26b4) - This is an amazing article that helped me finally understand alignment. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
-- Website - [Bhatesh Khairnar](https://www.your-site.com)
+- Website - [Bhatesh Khairnar](https://bhateshkhairnar.github.io/NFT-Preview-Card-Component/03-NFT.html)
 - Frontend Mentor - [@BhateshKhairnar](https://www.frontendmentor.io/profile/BhateshKhairnar)
 
 
