@@ -56,7 +56,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [Resource 1](https://www.w3schools.com/howto/howto_css_image_overlay.asp) - This helped me for image overlay. I really liked this pattern and will use it going forward.
+- [Resource 1](https://www.w3schools.com/howto/howto_css_image_overlay.asp) - This website helped me for understanding of image overlay. I really liked this pattern and will use it going forward.
 - [Resource 2](https://blog.prototypr.io/align-svg-icons-to-text-and-say-goodbye-to-font-icons-d44b3d7b26b4) - This is an amazing article that helped me finally understand alignment. I'd recommend it to anyone still learning this concept.
 
 ## Author
