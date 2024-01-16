@@ -43,9 +43,7 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
 - Position 
-- [Styled Components](https://styled-components.com/) - For styles
 
 ### What I learned
 
@@ -60,7 +58,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Bhatesh Khairnar](https://bhateshkhairnar.github.io/NFT-Preview-Card-Component/03-NFT.html)
+- Website - [Bhatesh Khairnar]
 - Frontend Mentor - [@BhateshKhairnar](https://www.frontendmentor.io/profile/BhateshKhairnar)
 
 
