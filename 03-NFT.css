@@ -41,7 +41,7 @@ body {
 }
 .content {
   background-color: var(--card-BG);
-  width: 32rem;
+  width: 37rem;
   padding: 2.5rem;
   display: flex;
   flex-direction: column;
