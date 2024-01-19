@@ -1,6 +1,5 @@
 # Frontend Mentor - NFT preview card component solution
 
-This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -13,7 +12,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -60,8 +58,3 @@ Users should be able to:
 
 - Website - [Bhatesh Khairnar]()
 - Frontend Mentor - [@BhateshKhairnar](https://www.frontendmentor.io/profile/BhateshKhairnar)
-
-
-## Acknowledgments
-
-- [Blog](https://blog.prototypr.io/align-svg-icons-to-text-and-say-goodbye-to-font-icons-d44b3d7b26b4) - This Blog help me to understand the alignment of svg and text thank you Elliot Dahl for writing such good artcile 
